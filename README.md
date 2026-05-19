@@ -58,7 +58,7 @@
 <p align="left">
 
 <a href="https://github.com/akhil-kg" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://www.linkedin.com/in/akhil-kg?utm_source=share_via&utm_content=profile&utm_medium=member_android"/>
 </a>
 
 <a href="https://github.com/Akhil-k-g" target="_blank">
