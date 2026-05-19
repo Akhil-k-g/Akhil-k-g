@@ -57,7 +57,7 @@
 
 <p align="left">
 
-<a href="www.linkedin.com/in/akhil-kg" target="_blank">
+<a href="https://github.com/akhil-kg" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
