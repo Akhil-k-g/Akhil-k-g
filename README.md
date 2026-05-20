@@ -48,7 +48,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Akhil-k-g&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akhil-k-g&theme=radical" />
 </p>
 
 ---
@@ -57,8 +57,8 @@
 
 <p align="left">
 
-<a href="https://github.com/akhil-kg" target="_blank">
-<img src="https://www.linkedin.com/in/akhil-kg?utm_source=share_via&utm_content=profile&utm_medium=member_android"/>
+<a href="https://www.linkedin.com/in/akhil-kg/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://github.com/Akhil-k-g" target="_blank">
